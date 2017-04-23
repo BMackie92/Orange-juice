@@ -1,0 +1,132 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue","Helvetica","Arial",sans-serif;
+	background-color:  #f2f2f2;
+	text-align: center;
+	}
+
+ul{
+	background-color: #303030;
+	height: 48px;
+	font-size: 17px;
+	margin: 0px 60px;
+	text-align: center;
+}
+
+li {
+	display: inline;
+	height: 48px;
+	color: white;
+	font-size: 14px;
+    line-height: 3.14286;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #fff;
+    position: relative;
+    margin: auto 45px;
+    display: inline-block;
+    padding: 0;
+    height: 44px;
+    
+    background: no-repeat;
+    text-decoration: none;
+    
+    margin: 0px 30px;
+}
+
+.nav {
+	background-color: #303030;
+	
+}
+
+.fa .fa-apple {
+	font-size: 14px;
+    line-height: 3.14286;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    padding: 10px;
+    height: 44px;
+    opacity: 1;
+    background: no-repeat;
+    background-color: #290a0d;
+}
+
+.content {
+	margin: 0 0px;
+    max-width: 980px;
+    padding: 0 22px;
+    position: relative;
+    z-index: 2;
+    background-color: #303030;
+    font-style: none;
+    font-size: 1em;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    text-align: center;
+}
+
+ img {
+ 	margin: 0px;
+	height: 500px;
+	width: 500px;
+	background-color: #f2f2f2
+	height: 50%;
+	display: block;
+	position: relative;
+	text-align: center;
+	color: inherit;
+	text-decoration: none;
+}
+
+.text {
+	text-align: center;
+	text-decoration: none;
+	position: absolute;
+	text-align: center;
+	margin: 25 auto;
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+.features img {
+	margin: 0;
+	width: 316.25px;
+	height:200px;
+	float: left;
+	}
+
+.watch img {
+	margin: auto;
+	text-align: center;
+	position: static;
+	top: -50px;
+}
+
+h1 {
+	margin-top: 20px;
+}
+
+h2 {
+	font-size: 8px;
+}
+
+h3 {
+	font-size: 34px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
