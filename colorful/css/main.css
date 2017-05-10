@@ -1,0 +1,86 @@
+* {
+	font-family: 'BioRhyme', serif;
+}
+.navbar-inverse {
+	background-color: #A5D1DA;
+	border-color: transparent;
+
+}
+
+.navbar-inverse .navbar-brand {
+	color: black;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: black;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: black;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+	color: black;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.jumbotron {
+	background-color: #A5D1DA;
+}
+
+.jumbotron h1 {
+	color: white;
+	font-size: 50px;
+	margin-left: 200px;
+}
+
+img {
+	max-height: 200px;
+	width: 200px;
+
+}
+
+section {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.col-md-12 {
+	text-align: center;
+}
+
+.img-responsive  {
+	display: inline;
+	margin-left: 50px;
+}
+
+.images {
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.second-row {
+	text-align: center;
+	margin-top: 30px;
+	position: relative;
+    left: 18px;
+}
+
+.owl {
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+.button {
+	text-align: center;
+	margin-top: 30px;
+
+}
+
+.btn-default {
+	margin-bottom: 50px;
+}
